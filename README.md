@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm Pedro Trancho</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+# Olá, sou o Pedro Trancho 👋
 
-- 🌱 I’m currently learning **Data Science**
+Estudante de **Bioinformática e Bioestatística**, em início de jornada.
 
-- 🤝 I’m looking for help with **landing my first DS job!**
+## 🇧🇷 Sobre
+- Aprendendo análise de dados biológicos com **Python** e **R**
+- Foco em estatística aplicada a dados biológicos e pipelines reprodutíveis
+- Em construção: meus primeiros projetos e estudos
 
-- 📫 How to reach me **pedro.h.trancho@gmail.com**
+## 🇺🇸 About
+- Learning biological data analysis with **Python** and **R**
+- Focus on applied statistics for biological data and reproducible pipelines
+- Work in progress: first projects and studies
 
-- ⚡ Fun fact **I've been in boy scouts since 9yo!**
+## 🛠️ Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pedro-trancho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-trancho" height="30" width="40" /></a>
-<a href="https://instagram.com/phtrancho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phtrancho" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📚 Em estudo / Currently learning
+- Bioinformática / Bioinformatics
+- Bioestatística / Biostatistics
+- Visualização de dados / Data visualization
